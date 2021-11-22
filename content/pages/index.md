@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love where you work, because work loves you'
+    title: 'Love where you work, because work loves you...'
     text: >
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
@@ -484,7 +484,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
@@ -500,7 +503,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
@@ -516,7 +522,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
@@ -532,7 +541,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
