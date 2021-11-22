@@ -163,6 +163,7 @@ sections:
         flexDirection: row-reverse
         borderColor: border-complementary
         borderStyle: dashed
+        borderRadius: full
       title:
         fontWeight: 700
         fontStyle: normal
