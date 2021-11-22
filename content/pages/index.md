@@ -161,7 +161,7 @@ sections:
         alignItems: flex-start
         justifyContent: center
         flexDirection: row-reverse
-        borderColor: border-secondary
+        borderColor: border-complementary
       title:
         fontWeight: 700
         fontStyle: normal
